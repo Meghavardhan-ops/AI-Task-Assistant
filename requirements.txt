@@ -1,0 +1,8 @@
+numpy : pip install numpy
+pandas : pip install pandas
+tensorflow : pip install tensorflow
+torch : pip install torch torchvision torchaudio
+spacy : pip install spacy
+nltk : pip install nltk
+flask : pip install Flask
+requests : pip install requests
